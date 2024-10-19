@@ -1,0 +1,2 @@
+# testdjango
+demo django
